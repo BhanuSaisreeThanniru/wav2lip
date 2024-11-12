@@ -6,4 +6,4 @@ torch
 torchvision
 tqdm
 numba
-Flask
+flask
