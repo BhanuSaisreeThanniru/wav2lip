@@ -60,4 +60,4 @@ def upload_files():
     return render_template('file_upload.html')
 
 if __name__ == '__main__':
-    app.run(debug=False)  # Set to False in production
+    app.run(debug=True)  # Set to False in production
